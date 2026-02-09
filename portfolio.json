@@ -1,0 +1,10 @@
+{
+  "title": {
+    "fr": "Puissance 4",
+    "en": "Connect Four"
+  },
+  "description": {
+    "fr": "Réalisation d’un jeu Puissance 4 en Python avec Pygame, développé en terminale, intégrant un bot capable d’analyser la position, de maximiser ses alignements de trois jetons et d’empêcher le joueur de gagner lorsque possible.",
+    "en": "Development of a Connect Four game in Python using Pygame, created during high school, featuring an AI bot that analyzes the board, maximizes three-in-a-row alignments, and blocks the player when possible."
+  }
+}
